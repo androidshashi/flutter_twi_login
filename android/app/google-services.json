@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "668043472806",
+    "project_id": "evisax-75f99",
+    "storage_bucket": "evisax-75f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668043472806:android:5905b03ed23e7f35766967",
+        "android_client_info": {
+          "package_name": "com.evisax.MobileApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668043472806-s6lhkel2tk4nhjapqrrgmrpejrocsdf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evisax.MobileApp",
+            "certificate_hash": "ab455a03d63c29e48a5d2477674d356112ba1e0c"
+          }
+        },
+        {
+          "client_id": "668043472806-ttlbofrtuirh21m256i8u0uuss1mssnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evisax.MobileApp",
+            "certificate_hash": "dcfd9a0c5c93648e49c0ca2eb4e365ab6125600a"
+          }
+        },
+        {
+          "client_id": "668043472806-vasuv1kuuc7nhujepait8go8hpdka9e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evisax.MobileApp",
+            "certificate_hash": "40b4cc5bd0cde1aea4cf5bfbbe26d303e2ada769"
+          }
+        },
+        {
+          "client_id": "668043472806-mfkhr3g5ll1j20hv4i3ms3gotmacd1as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsZCSv3Ese3yZL750jneFRlwfb7Uu10M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668043472806-mfkhr3g5ll1j20hv4i3ms3gotmacd1as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668043472806-n3fi5sluj754fv3lvbdf8agq0sb6slr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eVisaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668043472806:android:7746a950e7302462766967",
+        "android_client_info": {
+          "package_name": "com.example.e_visa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668043472806-l23piql7pk3lt8d65ss3q173ihkgfnha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_visa_app",
+            "certificate_hash": "ab455a03d63c29e48a5d2477674d356112ba1e0c"
+          }
+        },
+        {
+          "client_id": "668043472806-nco1ivsmq4ldgke63p3lsk6r0dja8vif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_visa_app",
+            "certificate_hash": "dcfd9a0c5c93648e49c0ca2eb4e365ab6125600a"
+          }
+        },
+        {
+          "client_id": "668043472806-mfkhr3g5ll1j20hv4i3ms3gotmacd1as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsZCSv3Ese3yZL750jneFRlwfb7Uu10M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668043472806-mfkhr3g5ll1j20hv4i3ms3gotmacd1as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668043472806-n3fi5sluj754fv3lvbdf8agq0sb6slr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eVisaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
